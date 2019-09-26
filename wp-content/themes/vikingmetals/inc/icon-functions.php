@@ -11,7 +11,7 @@
  * Gets the SVG code for a given icon.
  */
 function twentynineteen_get_icon_svg( $icon, $size = 24 ) {
-	return TwentyNineteen_SVG_Icons::get_svg( 'ui', $icon, $size );
+	//return TwentyNineteen_SVG_Icons::get_svg( 'ui', $icon, $size );
 }
 
 /**
